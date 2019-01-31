@@ -17,20 +17,20 @@
         <div id="main-slider" class="flexslider">
             <ul class="slides">
               <li>
-                <img src="img/slides/slider1.jpg" alt="" />
+                <img src="img/slides/slider1.png" alt="" />
 					 <div class="container">
 					<div class="row">
 						<div class="col-lg-12">
                 <div class="flex-caption">
-                    <h4>1<sup>st</sup> Faculty of Natural Sciences Annual Scientific Conference 2019...</h4>
-					<p>PROPOSED CONFERENCE DATE:<br>Monday 15<sup>th</sup> April to Thursday 18<sup>th</sup> April 2019</p>
+                    <h3>1<sup>st</sup> Faculty of Natural Sciences Annual Scientific Conference 2019...</h3>
+					<p>CONFERENCE DATE:<br>Monday 15<sup>th</sup> April to Thursday 18<sup>th</sup> April 2019</p>
                 </div>
 				 </div>
             </div>
         </div>
               </li>
               <li>
-                <img src="img/slides/slider2.jpg" alt="" />
+                <img src="img/slides/slider3.jpg" alt="" />
 				 <div class="container">
 					<div class="row">
 						<div class="col-lg-12">
@@ -88,7 +88,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<div><p style="text-align:justify; font-size:16px">The Dean, Faculty of Natural Sciences, Ibrahim Badamasi Babangida University, Lapai, Niger State and the Local Organizing Committee of the Faculty of Natural Sciences Annual Conference (FONSAC) wishes to <strong>CALL FOR ABSTRACTS</strong> from research scientists in Natural Sciences, Health Sciences, Applied Sciences, Agricultural Science, Environmental Sciences and Physical Sciences for the 1<sup>st</sup> Annual Scientific Conference (FONSAC 2019) with the Theme:<strong> Commercialization of Research Outputs for National Development.</strong> <br> The Conference is scheduled to hold from Monday 15<sup>th</sup> April to Thursday 18<sup>th</sup> April 2019 at the University Auditorium.<br><br><strong>CONFERENCE SUB-THEMES</strong></p></div>
+				<div><p style="text-align:justify; font-size:16px">The Dean, Faculty of Natural Sciences, Ibrahim Badamasi Babangida University, Lapai, Niger State and the Local Organizing Committee of the Faculty of Natural Sciences Annual Conference (FONSAC) wishes to <strong>CALL FOR PAPER</strong> from research scientists in Natural Sciences, Health Sciences, Applied Sciences, Agricultural Science, Environmental Sciences and Physical Sciences for the 1<sup>st</sup> Annual Scientific Conference (FONSAC 2019) with the Theme:<strong> Commercialization of Research Outputs for National Development.</strong>
+					 <p><br> The Conference is scheduled to hold from Monday 15<sup>th</sup> April to Thursday 18<sup>th</sup> April 2019 at the University Auditorium.</p>
+					 <br><strong>CONFERENCE SUB-THEMES</strong></p></div>
 
 			</div>
 		</div>
@@ -170,8 +172,8 @@
             </div>
             <div class="col-md-3">
             <h4 style="color:green">KEY NOTE SPEAKER</h4>
-                <img class="img-responsive" src="img/avatar.png" width="250px" height="200px" alt="">            	<h4 align="center">Prof. S. Thomas<br>Director General</h4>
-                <p align="center">Shedda Science & Technology Commplex (SHESTCO)</p>
+                <img class="img-responsive" src="img/avatar.png" width="250px" height="200px" alt="">            	<h4 align="center">Prof. S. Thomas</h4>
+                <p align="center">Director General<br>Shedda Science & Technology Commplex (SHESTCO)</p>
             </div>
         <div class="col-md-3">
         <h4 style="color:red">HOST</h4>
@@ -191,10 +193,10 @@
 		<!-- First Service Blcoks -->
         <div class="row service-v1 margin-bottom-40">
             <div class="col-md-3 md-margin-bottom-40">
-            <h4 style="color:yellow">PLENARY SPEAKERS</h4>
+            <h4 style="color:green">PLENARY SPEAKERS</h4>
                <img class="img-responsive" src="img/avatar.png" width="250px" height="200px" alt="">
                 <h4 align="center">Dr. Ndagi AbdulMalik</h4>
-                <p align="center">Niger State Industrial Park</p>
+                <p align="center">Director General, Niger State Industrial Park</p>
             </div>
             <div class="col-md-3">
             <h4 style="color:green">PLENARY SPEAKERS</h4>
@@ -202,7 +204,7 @@
                 <p align="center">University of Lagos</p>
             </div>
             <div class="col-md-3">
-            <h4 style="color:blue">PLENARY SPEAKERS</h4>
+            <h4 style="color:green">PLENARY SPEAKERS</h4>
                 <img class="img-responsive" src="img/avatar.png" width="250px" height="200px" alt="">            	<h4 align="center">Ms. Sa'adatu Suleiman</h4>
                 <p align="center">First Bank Plc</p>
             </div>

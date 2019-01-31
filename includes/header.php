@@ -10,8 +10,9 @@
                 </div>
                 <div align="center" class="navbar-collapse collapse ">
                     <ul align="center" class="nav navbar-nav">
-                        <li><a href="index.php">Home</a></li> 
-						<li><a href="paper.php">Call For Abstract</a></li>
+                        <li><a href="index.php">Home</a></li>
+						             <li><a href="paper.php">Call for Paper</a></li>
+                         <li><a href="schedule.php">Schedule</a></li>
                         <li><a href="register.php">Register</a></li>
                         <li><a href="venue.php">Venue/Hotels</a></li>
                         <li><a href="committee.php">Committee</a></li>

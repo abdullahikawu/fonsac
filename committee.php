@@ -24,7 +24,7 @@
 			<section class="features">
         <div class="container">
           <div class="row">
-          
+
             <div class="col-md-6">
               <div><h2>LOC Sub Committees Members:</h2>
 				<br>
@@ -71,7 +71,7 @@
                     <li>Ms. Fatima Gogo Mayaki</li>
                </ul><br>
 			</div>
-            </div>         
+            </div>
             <div class="col-md-6"><br><br>
               <div>
 				<br><br>
@@ -80,7 +80,7 @@
                		<li>Dr. Matthew Tsepav (Chairperson)</li>
                     <li>Dr. Ugoeze Elele</li>
                     <li>Dr. Ibrahim Abdullahi</li>
-                    <li>Mr. Abdullahi Kawu</li>
+                    <li>Mr. Abdullahi A. Kawu</li>
                     <li>Dr. Musa Achimugu Dickson</li>
                     <li>Mr. Elija Joseph</li>
                     <li>Ms. Salamatu Kolo</li>
@@ -127,7 +127,7 @@
 <script src="js/jquery.easing.1.3.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.fancybox.pack.js"></script>
-<script src="js/jquery.fancybox-media.js"></script> 
+<script src="js/jquery.fancybox-media.js"></script>
 <script src="js/portfolio/jquery.quicksand.js"></script>
 <script src="js/portfolio/setting.js"></script>
 <script src="js/jquery.flexslider.js"></script>

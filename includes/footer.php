@@ -15,7 +15,7 @@
 					<h5 class="widgetheading">Quick Links</h5>
 					<ul class="link-list">
 						<li><a href="index.php">Home</a></li>
-						<li><a href="venue.php">Venue</a></li>
+						<li><a href="schedule.php">Schedule of activities</a></li>
 						<li><a href="venue.php">Hotel Reservation</a></li>
 						<li><a href="https://www.ibbu.edu.ng">School Info</a></li>
 						<li><a href="#">Contact us</a></li>
@@ -47,7 +47,7 @@
 			<div class="row">
 				<div class="col-lg-6">
 					<div class="copyright">
-						<p><?php echo '&copy;  Fonsac  '. date("Y").'  All Rights Reserved | Powered by ';//Founder(Memunat Manzuma)?><a href="https://www.facebook.com/2jmlab" target="_blank"> 2JM Lab Nig Ltd</a></p>
+						<p><?php echo '&copy;  FONSAC  '. date("Y").'  All Rights Reserved.';//Founder(Memunat Manzuma)?></p>
 					</div>
 				</div>
 				<div class="col-lg-6">
